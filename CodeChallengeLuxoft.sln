@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallengeLuxoft", "CodeChallengeLuxoft\CodeChallengeLuxoft.csproj", "{4C0534D2-AC31-40F5-AC90-C4D2739225CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSUnitTest", "POSUnitTest\POSUnitTest.csproj", "{F9C3B2AE-795F-4400-A6A4-E70FE04204EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C0534D2-AC31-40F5-AC90-C4D2739225CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C0534D2-AC31-40F5-AC90-C4D2739225CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C0534D2-AC31-40F5-AC90-C4D2739225CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C0534D2-AC31-40F5-AC90-C4D2739225CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C3B2AE-795F-4400-A6A4-E70FE04204EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C3B2AE-795F-4400-A6A4-E70FE04204EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C3B2AE-795F-4400-A6A4-E70FE04204EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C3B2AE-795F-4400-A6A4-E70FE04204EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D987DDF4-9BA6-4E7E-BCF1-F9B8EF71535E}
+	EndGlobalSection
+EndGlobal
